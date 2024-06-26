@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a Computer Science major with a concentration in Software Engineering, set to graduate in April 2025. I'm passionate about coding, electronics, and bringing ideas to life through technology.
 
 # About Me
-🌱 Proficient in C++, Python, JavaScript, and Java, with knowledge in other languages.
+🌱 Proficient in C++, Python, JavaScript, and Java, as well as many other languages.
 
 🛠️ Enjoy tinkering with electronics and exploring new projects.
 
