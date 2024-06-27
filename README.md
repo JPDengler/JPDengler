@@ -49,13 +49,13 @@
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
           </a>
+          <br/>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
           </a>
           <a href="https://nodejs.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
           </a>
-          <br/>
           <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
           </a>
@@ -74,6 +74,7 @@
           <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
             <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
           </a>
+          <br/>
           <a href="https://unity.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
           </a>
@@ -86,7 +87,6 @@
           <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
           </a>
-          <br/>
           <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
           <img src="https://cdn.shopify.com/s/files/1/0246/0798/1613/products/autodesk-autocad-small_social-400.png?v=1650011220" alt="AutoCad" width="40" height="40" />
           </a>
@@ -99,8 +99,6 @@
           <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
           </a>
-          <a href="https://workspace.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google workspace" width="40" height="40" />
           </a>
         </p>
       </td>
