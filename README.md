@@ -107,7 +107,9 @@
 <br/>
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7B2&random=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
-
+<p align="center">
+<img src="https://github.com/JPDengler/JPDengler/blob/main/CAAT.gif?raw=true" height="200" alt="CAT" />
+  
 - 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. [Feedback is always welcome!](https://jpdengler.github.io/Portfolio/)
 
 - 🌱 I’m currently learning **everything, always! :)**
