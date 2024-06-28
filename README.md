@@ -118,10 +118,7 @@
 - 🌳 I've just completed learning:
   <br/> **Client/Server Development 2024 (CS-340 @ SNHU)** & **UI/UX Design and Development 2024 (CS-319 @ SNHU)**
   
-
-- 🤝 I’m looking for help with MCM Menu Skyrim Mod,
-<br/> shoot me a message on Nexus mods [HERE](https://next.nexusmods.com/profile/AWildJoey/about-me)
-
+- 🤝 I’m looking for help with MCM Menu Skyrim Mod,shoot me a message on Nexus mods [HERE](https://next.nexusmods.com/profile/AWildJoey/about-me)
   
 - 👨‍💻 All of my projects are available on my [Portfolio](https://jpdengler.github.io/Portfolio/)
 
@@ -129,7 +126,8 @@
 
 - 📄 Know about my experiences: [RESUME](https://docs.google.com/document/d/1rkYX2gs1hHSCYmbxGOOGQtMiHkr5SpPz/edit?usp=sharing&ouid=113982247603588447000&rtpof=true&sd=true)
 
-- ⚡ Fun fact I own five ferrets and four cats
+- ⚡ Fun fact I am the proud father of five ferrets, four cats, a bearded dragon, and a beta fish!
+           🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉 🐟
 
 <!-- Profile Views -->
 <p align="right">
