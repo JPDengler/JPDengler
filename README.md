@@ -14,7 +14,7 @@
       <!-- GitHub Streak Widget -->
       <td>
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=jpdengler&theme=gotham" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
         </a>
       </td>
       <!-- Languages and Tools -->
