@@ -112,11 +112,17 @@
   
 - 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. [Feedback is always welcome!](https://jpdengler.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **everything, always! :)**
+- 🌱 I’m currently learning:
+  <br/>    -  **Emerging Sys Arch & Tech 2024 (CS-350 @ SNHU)**
+  <br/>    -  **Mobile Architect & Programming 2024 (CS-360 @ SNHU)**
+
+- 🌳 I've just completed learning:
+  <br/>    -  **Client/Server Development 2024 (CS-340 @ SNHU)**
+  <br/>    -  **UI/UX Design and Development 2024 (CS-319 @ SNHU)**
 
 - 🤝 I’m looking for help with MCM Menu Skyrim Mod, shoot me a message on [Nexus mods!](https://next.nexusmods.com/profile/AWildJoey/about-me)
 
-- 👨‍💻 All of my projects are available at [https://jpdengler.github.io/Portfolio/](https://jpdengler.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://jpdengler.github.io/Portfolio/)
 
 - 📫 How to reach me: **jp.dengler@gmail.com**
 
