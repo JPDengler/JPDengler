@@ -1,4 +1,4 @@
-
+<!-- Socials -->
 <p align="right">
 <a href="https://linkedin.com/in/jpdengler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpdengler" height="30" width="40" /></a>
 <a href="https://fb.com/joseph dengler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseph dengler" height="30" width="40" /></a>
@@ -13,17 +13,25 @@
     <tr>
       <!-- GitHub Streak Widget -->
       <td>
-      <p align="center">
-        <img src="https://github.com/JPDengler/JPDengler/blob/main/CAAT.gif?raw=true" height="70" alt="CAT" />
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
+          <img src="https://streak-stats.demolab.com?user=jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" />
         </a>
       </td>
-      <!-- Languages and Tools -->
-      <td>
+      <!-- GitHub TopLan Widget -->
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPDengler&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Languages & Tools Github Widget -->
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7B2&center=true&random=false&width=435&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a>
-        <p align="center">
-          <!-- Programming Languages -->
+      <br/>
+        <!-- Languages & Tools -->
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
           </a>
@@ -42,11 +50,9 @@
           <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
           </a>
-          <!-- Other Tools -->
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
           </a>
-          <br/>
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
           </a>
@@ -68,7 +74,6 @@
           <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
           </a>
-          <br/>
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
           </a>
@@ -78,19 +83,12 @@
           <a href="https://unity.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
           </a>
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-          </a>
-          <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-          </a>
           <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
           </a>
           <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
           <img src="https://cdn.shopify.com/s/files/1/0246/0798/1613/products/autodesk-autocad-small_social-400.png?v=1650011220" alt="AutoCad" width="40" height="40" />
           </a>
-          <br/>
           <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40" />
           </a>
@@ -99,19 +97,13 @@
           </a>
           <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
-          </a>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+			  <br/>
+   		<br/>
+    <br/>
 
-<br/>
-<br/>
+<!-- About Me & GitHub Widget -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7B2&random=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
 <p align="left">
-
   
 - 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. [Feedback is always welcome!](https://jpdengler.github.io/Portfolio/)
 
@@ -132,10 +124,15 @@
 - ⚡ Fun fact I am the proud father of five ferrets, four cats, a bearded dragon, and a beta fish!
            🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉 🐟
 
+<!-- GitHub Stats Widget -->
+<br/>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JPDengler&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jpdengler&label=Profile%20views&color=0e75b6&style=flat" alt="jpdengler" />
-
-
 
 
