@@ -90,6 +90,7 @@
           <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
           <img src="https://cdn.shopify.com/s/files/1/0246/0798/1613/products/autodesk-autocad-small_social-400.png?v=1650011220" alt="AutoCad" width="40" height="40" />
           </a>
+          <br/>
           <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40" />
           </a>
