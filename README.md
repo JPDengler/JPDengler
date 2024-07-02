@@ -65,6 +65,7 @@
           <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
           </a>
+	<br/>
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
           </a>
@@ -103,8 +104,6 @@
 
 <!-- About Me & GitHub Widget -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7B2&random=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
-<p align="left">
-  
 - 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. [Feedback is always welcome!](https://jpdengler.github.io/Portfolio/)
 
 - 🌱 I’m currently learning:
