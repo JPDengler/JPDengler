@@ -121,8 +121,9 @@
 
 - 📄 Know about my experiences: [RESUME](https://docs.google.com/document/d/1rkYX2gs1hHSCYmbxGOOGQtMiHkr5SpPz/edit?usp=sharing&ouid=113982247603588447000&rtpof=true&sd=true)
 
-- ⚡ Fun fact I am the proud father of five ferrets, four cats, a bearded dragon, and a beta fish!
-           🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉 🐟
+- ⚡ Fun fact I am a pet dad of five ferrets, four cats, a bearded dragon, and a beta fish!
+<p align="center">
+🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉 🐟
 
 <!-- GitHub Stats Widget -->
 <br/>
