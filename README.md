@@ -10,7 +10,7 @@
 
 <!-- Container for Streak and Languages/Tools -->
 <div align="center">
-  <table style="background-color: transparent; border-collapse: collapse;">
+  <table>
     <tr>
       <!-- GitHub Streak Widget -->
       <td>
