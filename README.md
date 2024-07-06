@@ -105,7 +105,7 @@
 
 <!-- About Me & GitHub Widget -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7B2&random=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
-- 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. [Feedback is always welcome!](https://jpdengler.github.io/Portfolio/)
+- 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. Feedback is always welcome!
 
 - 🌱 I’m currently learning:
   <br/>  **Emerging Sys Arch & Tech 2024 (CS-350 @ SNHU)** & **Mobile Architect & Programming 2024 (CS-360 @ SNHU)**
@@ -117,7 +117,7 @@
   
 - 👨‍💻 All of my projects are available on my [PORTFOLIO](https://jpdengler.github.io/Portfolio/)
 
-- 📫 How to reach me: [**jp.dengler@gmail.com**](mailto:jp.dengler@gmail.com)
+- 📫 How to reach me: [JP.DENGLER@GMAIL.COM](mailto:jp.dengler@gmail.com)
 
 - 📄 Know about my experiences: [RESUME](https://docs.google.com/document/d/1rkYX2gs1hHSCYmbxGOOGQtMiHkr5SpPz/edit?usp=sharing&ouid=113982247603588447000&rtpof=true&sd=true)
 
