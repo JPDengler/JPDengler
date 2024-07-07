@@ -134,6 +134,6 @@
 
 <!-- Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jpdengler&label=Profile%20views&color=0e75b6&style=flat" alt="jpdengler" />
+  <img src="https://komarev.com/ghpvc/?username=jpdengler&label=Popularity%20Counter&color=227e5f&style=flat" alt="jpdengler" />
 
 
