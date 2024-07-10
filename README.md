@@ -14,9 +14,7 @@
     <tr>
       <!-- GitHub Streak Widget -->
       <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" />
-        </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
       </td>
       <!-- GitHub TopLan Widget -->
       <td align="center">
@@ -135,5 +133,6 @@
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jpdengler&label=Popularity%20Counter&color=227e5f&style=flat" alt="jpdengler" />
+
 
 
