@@ -14,7 +14,7 @@
     <tr>
       <!-- GitHub Streak Widget -->
       <td>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jpdengler&theme=gotham&hide_border=false" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
       </td>
       <!-- GitHub Top Widget -->
       <td align="center">
@@ -125,9 +125,8 @@
 
 <!-- GitHub Stats Widget -->
 <br/>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JPDengler&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats" /></a>
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jpdengler&label=Popularity%20Counter&color=227e5f&style=flat" alt="jpdengler" />
