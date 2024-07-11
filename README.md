@@ -115,7 +115,7 @@
 
 - 📫 How to reach me: [JP.DENGLER@GMAIL.COM](mailto:jp.dengler@gmail.com)
 
-- 📄 Know about my experiences: [RESUME](https://docs.google.com/document/d/1XUpxBn8oaYQqXXjXk19569QXE0meVcT5/edit?usp=sharing&ouid=113982247603588447000&rtpof=true&sd=true)
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1FrtD3rHyrkmHSSDl1p-582Da0-N9a-hk/view?usp=sharing)
 
 - 🤝 I’m looking for help with MCM Menu Skyrim Mod,shoot me a message on Nexus mods [HERE](https://next.nexusmods.com/profile/AWildJoey/about-me)
 
