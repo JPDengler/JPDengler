@@ -126,7 +126,8 @@
 <!-- GitHub Stats Widget -->
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JPDengler&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JPDengler&show_icons=true&theme=gotham&hide_border=false&rank_icon=github" alt="GitHub Stats" /></a>
+  
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jpdengler&label=Popularity%20Counter&color=227e5f&style=flat" alt="jpdengler" />
