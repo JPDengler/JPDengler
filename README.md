@@ -115,14 +115,14 @@
 
 - 📫 How to reach me: [JP.DENGLER@GMAIL.COM](mailto:jp.dengler@gmail.com)
 
-- 📄 Know about my experiences: [RESUME](https://docs.google.com/document/d/e/2PACX-1vTIduQbt8nf79gYmc7JDOOwPZPUq4ma-KR0wnJgoT9u1dQlAdSHC-yYbHp4K1mY4g/pub)
+- 📄 Know about my experiences: [RESUME](https://docs.google.com/document/d/1XUpxBn8oaYQqXXjXk19569QXE0meVcT5/edit?usp=sharing&ouid=113982247603588447000&rtpof=true&sd=true)
 
 - 🤝 I’m looking for help with MCM Menu Skyrim Mod,shoot me a message on Nexus mods [HERE](https://next.nexusmods.com/profile/AWildJoey/about-me)
 
 - ⚡ Fun fact I am a pet dad of five ferrets, four cats, a bearded dragon, and a beta fish!
 <p align="center">
 🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉 🐟
-
+<br/>
 <!-- GitHub Stats Widget -->
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
