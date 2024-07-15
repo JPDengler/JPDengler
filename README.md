@@ -96,8 +96,8 @@
           <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
           </a> &nbsp;&nbsp;&nbsp;&nbsp;
-			  <br/>
-   		<br/>
+			<br/>
+   	<br/>
 
 <!-- About Me & GitHub Widget -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7B2&random=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
