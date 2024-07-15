@@ -14,12 +14,12 @@
     <tr>
       <!-- GitHub Streak Widget -->
       <td>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jpdengler&theme=gotham&hide_border=false" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jpdengler&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
       </td>
       <!-- GitHub Top Widget -->
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPDengler&layout=compact&theme=gotham&hide_border=false" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPDengler&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -124,7 +124,7 @@
 <!-- GitHub Stats Widget -->
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JPDengler&show_icons=true&theme=gotham&hide_border=false&rank_icon=github" alt="GitHub Stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JPDengler&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats" /></a>
   
 <!-- Profile Views -->
 <p align="right">
