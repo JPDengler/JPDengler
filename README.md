@@ -104,10 +104,10 @@
 - 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. Feedback is always welcome!
 
 - 🌱 I’m currently learning:
-  <br/>  **Emerging Sys Arch & Tech 2024 (CS-350 @ SNHU)** && **Mobile Architect & Programming 2024 (CS-360 @ SNHU)**
+  <br/>  **Current/Emerging Trends in CS 2024 (CS-370 @ SNHU)** && **Secure Coding 2024 (CS-405 @ SNHU)**
   
 - 🌳 I've just completed learning:
-  <br/> **Client/Server Development 2024 (CS-340 @ SNHU)** && **UI/UX Design and Development 2024 (CS-319 @ SNHU)**
+  <br/>  **Emerging Sys Arch & Tech 2024 (CS-350 @ SNHU)** && **Mobile Architect & Programming 2024 (CS-360 @ SNHU)**
     
 - 👨‍💻 All of my projects are available on my [PORTFOLIO](https://jpdengler.github.io/Portfolio/)
 
