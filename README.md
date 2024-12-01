@@ -117,9 +117,9 @@
 
 - 🤝 I’m looking for help with MCM Menu Skyrim Mod,shoot me a message on Nexus mods [HERE](https://next.nexusmods.com/profile/AWildJoey/about-me)
 
-- ⚡ Fun fact I am a pet dad of five ferrets, four cats, a bearded dragon, and a beta fish!
+- ⚡ Fun fact I am a pet dad of six ferrets, four cats, and a bearded dragon!
 <p align="center">
-🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉 🐟
+🦦🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉
 <br/>
 <!-- GitHub Stats Widget -->
 <br/>
