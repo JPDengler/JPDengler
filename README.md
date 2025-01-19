@@ -119,7 +119,7 @@
 
 - ⚡ Fun fact I am a pet dad of six ferrets, four cats, and a bearded dragon!
 <p align="center">
-🦦🦦🦦🦦🦦🦦 🐈🐈🐈🐈 🐉
+🦦  🦦  🦦  🦦  🦦  🦦         🐈  🐈  🐈  🐈            🐉
 <br/>
 <!-- GitHub Stats Widget -->
 <br/>
