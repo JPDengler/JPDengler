@@ -104,10 +104,10 @@
 - 🔭 I’m currently working on numerous projects including completion of my Portfolio, game mods, and an IoT project, a real life 'BMO' robot. Feedback is always welcome!
 
 - 🌱 I’m currently learning:
-  <br/>  **Computer Science Capstone 2025 (CS-499 @ SNHU)** && **Software Reverse Engineering (CS-410 @ SNHU)**
+  <br/>  FreeCad for 3D Printing of Mechanical and Electrical Parts!
   
 - 🌳 I've just completed learning:
-  <br/>  **Full Stack Development I 2024 (CS-465 @ SNHU)** && **Technology and Society 2024 (IDS-403 @ SNHU)**
+  <br/>  Computer Science BSE! 3/2025 - Southern New Hampshire University.
     
 - 👨‍💻 All of my projects are available on my [PORTFOLIO](https://jpdengler.github.io/Portfolio/)
 
